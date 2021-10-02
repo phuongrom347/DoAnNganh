@@ -1,0 +1,4 @@
+<?
+	$websiteTITLE = "VNG";
+	
+?>
